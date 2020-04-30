@@ -4,6 +4,8 @@ This repository contains a simple example of implementing custom tensor operatio
 for [PyTorch](https://pytorch.org/) in C/CUDA using [CFFI](https://cffi.readthedocs.io/en/latest/)
 and [CuPy](https://cupy.chainer.org/).
 
+Blog article: [Implementing Custom PyTorch Tensor Operations in C and CUDA](https://davidstutz.de/implementing-custom-pytorch-tensor-operations-in-c-and-cuda/)
+
 ## Installation
 
 Requirements:
